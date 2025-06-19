@@ -1,0 +1,9 @@
+Titre : Pensées d’un Développeur en Herbe
+
+Aujourd’hui, j’ai décidé de me lancer dans un nouveau projet. Le code, c’est plus qu’une série d’instructions : c’est une façon de penser, de créer, de résoudre des problèmes.
+
+Entre les lignes de JavaScript et les boucles de Python, je découvre un univers où chaque bug est un défi et chaque réussite, une victoire personnelle.
+
+Demain, je continuerai. Peut-être que je réussirai à finir ce prototype, ou peut-être que je passerai la journée à chercher une erreur de syntaxe. Mais peu importe : tant que je progresse, je suis sur le bon chemin.
+
+- Erwan
